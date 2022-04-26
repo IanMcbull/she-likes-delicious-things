@@ -1,6 +1,6 @@
 ---
-title: Built For Speed
-subtitle: Awake is Built to Be Blazing Fast
+title: Need For Speed
+subtitle: This is why there is need for speed
 category:
   - About Awake
 author: Daniel Kelly
